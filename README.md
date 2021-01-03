@@ -8,8 +8,8 @@ Codeigniter ile geliştirilmiş e-ticaret projelerinize ekleyerek sayfa yenilenm
 
 Pages:
 
-application/controller/main.php
-application/controller/ajax.php
+- application/controller/main.php
+- application/controller/ajax.php
 
-assets/js/jquery.js
-assets/js/ajax.js
+- assets/js/jquery.js
+- assets/js/ajax.js
